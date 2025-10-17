@@ -38,6 +38,15 @@ const projects = [
         demoUrl: "#",
         githubUrl: "https://github.com/madhusai-official-09/DeepSea-Creatures-Analysis-using-Machine-Learning",
     }
+    {
+        id: 5,
+        title: "To-Do List Webapp",
+        description: "A simple and responsive To-Do List Web App built using HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks while saving them locally for efficient daily task management.",
+        image: "/projects/project4.png",
+        tags: ["HTML", "CSS", "JavaScript"],
+        demoUrl: "https://madhusai-official-09.github.io/To-Do-List-Webapp/",
+        githubUrl: "https://github.com/madhusai-official-09/To-Do-List-Webapp/tree/main",
+    }
 ]
 
 export const ProjectsSection = () => {
